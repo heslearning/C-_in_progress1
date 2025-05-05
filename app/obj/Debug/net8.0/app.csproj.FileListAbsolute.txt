@@ -12,3 +12,4 @@ D:\QUT\QUTCAB201\Training\app\obj\Debug\net8.0\refint\app.dll
 D:\QUT\QUTCAB201\Training\app\obj\Debug\net8.0\app.pdb
 D:\QUT\QUTCAB201\Training\app\obj\Debug\net8.0\app.genruntimeconfig.cache
 D:\QUT\QUTCAB201\Training\app\obj\Debug\net8.0\ref\app.dll
+D:\QUT\QUTCAB201\Training\app\obj\Debug\net8.0\app.sourcelink.json
